@@ -1,6 +1,6 @@
 # Rock-Paper-SCISSOR
 ## Demo
-[Play the game live](#)  https://github.com/Nitheesh-Parkala/Rock-Paper-SCISSOR/settings/pages
+[Play the game live](#)  https://nitheesh-parkala.github.io/Rock-Paper-SCISSOR/
 ## Usage
 
 - Click on one of the three buttons (Rock, Paper, or Scissors) to make your choice.
